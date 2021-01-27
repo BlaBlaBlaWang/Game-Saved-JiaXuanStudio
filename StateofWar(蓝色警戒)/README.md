@@ -18,6 +18,6 @@
 
 * 赏玩截图
 
-![image-20210127191523318](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210127191523318.png)
+![image-20210127191523318](.\image-20210127191523318.png)
 
 ### 请支持正版
