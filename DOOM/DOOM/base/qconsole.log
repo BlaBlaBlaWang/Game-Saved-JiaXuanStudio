@@ -1,0 +1,21 @@
+log file 'qconsole.log' opened on Sun Aug 15 13:23:03 2021
+
+CrashHandler: Storing data and writing local report.
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+No address, error: 487
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+No address, error: 487
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
+idStackTracer::GetSource: Failed
